@@ -1,2 +1,1 @@
-# c
-c语言学习程序
+For AwTester AwLab & AwLab Plus
